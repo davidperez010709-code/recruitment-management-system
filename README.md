@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # University of Ibadan Recruitment Management System
 
 Academic prototype for recruitment operations: vacancy publishing, applicant profiles and applications, screening, interviews, evaluations, final decisions, notifications, activity logs, and reports.
@@ -86,3 +87,7 @@ npm run build
 ```
 
 PostgreSQL is the configured application database. For isolated automated tests, PHPUnit uses an in-memory SQLite database unless the test configuration is deliberately changed.
+=======
+# recruitment-management-system
+group project software implementation 
+>>>>>>> edd905debc5580a63d1fe182fb823898b01dec63
